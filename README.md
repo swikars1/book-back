@@ -2,7 +2,7 @@
 
 ## Technical Documentation
 
-### Usuage
+### Usage
 
 #### Frontend
 
@@ -52,7 +52,7 @@ This system is built upon a stack of JavaScript/TypeScript technologies. This ap
 
 ### Assumptions and Future Considerations
 
-- Author Usuage: Author is automatically created when a book is created if author with same name doesn't exist.
+- Author Usage: Author is automatically created when a book is created if author with same name doesn't exist.
 - Database Scaling: For production environments with very large datasets, consider migrating to a more robust database solution (e.g., PostgreSQL, MySQL).
 - Search Optimization: For extensive book collections, explore indexing and integration with specialized search libraries.
 - Security: Implement robust user authentication and authorization when user accounts become a system requirement.
